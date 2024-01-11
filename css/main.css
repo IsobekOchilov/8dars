@@ -1,0 +1,125 @@
+.container{
+    width: 1510px;
+    height: 4650px;
+    background-color: rgb(0, 0, 0);
+    margin: 0 auto;
+}
+.box{
+    background-color: black;
+    width: 1510px;
+    height: 75px;
+}
+.rasm{
+    margin-left: 100px;
+}
+button{
+    width: 111px;
+    height: 50px;
+    color: white;
+    background-color: #A92A1D;
+    border: #A92A1D solid;
+}
+button:hover{
+    color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255) solid;
+    background-color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.yo p{
+    display: inline;
+    color: white;
+    margin-left: 40px;
+    
+}
+.yo{
+    margin-left: 830px;
+    margin-top: -40px;
+}
+video{
+    width: 1505px;
+    cursor: pointer;
+}
+.yoz h1{
+    font-size: 60px;
+}
+.yoz h1{
+    margin-top: -600px;
+    margin-left: 100px;
+}
+.yoz button{
+    width: 111px;
+    height: 50px;
+    color: white;
+    background-color: #A92A1D;
+    border: #A92A1D solid;
+    margin-left: 100px;
+}
+button:hover{
+    color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255) solid;
+    background-color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.box3 h1{
+    font-size: 54px;
+}
+.box3{
+    width: 1505px;
+    height: 450px;
+    background-color: black;
+    margin-top: 280px;
+}
+.box4 img{
+    display: inline;
+}
+.box5{
+    margin-top: -555px;
+    margin-left: 310px;
+}
+.box6{
+    margin-top: -655px;
+    margin-left: 630px;
+}
+.box7{
+    margin-left: 950px;
+    margin-top: -545px;
+}
+.box8{
+    margin-left: 1195px;
+    margin-top: -655px;
+}
+.rasm1{
+    margin-left: 880px;
+    margin-top: -500px;
+}
+.row1{
+    margin-left: 510px;
+    margin-top: -650px;
+}
+.row2{
+    margin-left: 1010px;
+    margin-top: -300px;
+}
+.row3{
+    margin-left: 620px;
+    margin-top: -190px;
+}
+.row4{
+    margin-left: -630px;
+}
+.h1{
+    margin-top: -400px;
+}
+.h1 input{
+    width: 402px;
+    height: 60px;
+    border: solid white;
+    background-color: white;
+}
+input:hover{
+    background-color: black;
+    border: solid white;
+}
+.yu1 img{
+    width: 1510px; 
+}
